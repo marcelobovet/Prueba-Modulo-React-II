@@ -7,4 +7,4 @@
  # agregué la view del carro y de la info detallada pero depués de eliminar una pizza del carro y volver agregar se rompre todo, por honor al tiempo no ahondé mas en la solución, espero nos sea un inconveniente, saludos y gracias!. 
 
 
-# Porfesor muy buena la ultima clase.#
+# Porfesor muy buena la ultima clase.# .
